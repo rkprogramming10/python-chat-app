@@ -27,12 +27,12 @@ relheight, relx, rely: (relative height, relative x and y position from the wind
 goAhead function will send to the next screen whenever button is pressed
 
 
-follow us:
-Instagrm: 
-Facebook:
+follow us on :
+Instagrm: https://www.instagram.com/rohitvishwakarma2234
+Facebook: https://www.facebook.com/shivaay.vishwakarma.35
 
 Join our Telegram channel for new Updates.
-Telegram: <a href='https://t.me/rkprogramming10k'></a>
+Telegram: https://t.me/rkprogramming10k
 
 
 
