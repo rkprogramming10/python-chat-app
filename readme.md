@@ -28,7 +28,7 @@ goAhead function will send to the next screen whenever button is pressed
 
 
 follow us on :
-Instagrm: https://www.instagram.com/rohitvishwakarma2234
+Instagrm: https://www.instagram.com/rkprogramming.10k/
 Facebook: https://www.facebook.com/shivaay.vishwakarma.35
 
 Join our Telegram channel for new Updates.
